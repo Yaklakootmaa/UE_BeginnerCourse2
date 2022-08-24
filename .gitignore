@@ -1,6 +1,5 @@
 
 *.log
-UE_Part2/Saved/Config/CrashReportClient/UECC-Windows-66BC67CC4AEDB0D1599776A3FA056554/CrashReportClient.ini
-UE_Part2/Saved/AutoScreenshot.png
-UE_Part2/Saved/AutoScreenshot.png
-UE_Part2/Intermediate/CachedAssetRegistry.bin
+UE_Part2/Saved/
+UE_Part2/Intermediate/
+
